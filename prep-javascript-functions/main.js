@@ -1,6 +1,6 @@
-function addTwoNumbers(x, y) {
-  return x + y;
+function convertHoursToMinutes(x, y) {
+  return x * y;
 }
 
-var addTwoNumbersResult = addTwoNumbers(2, 2);
-console.log('addTwoNumbersExcercise', addTwoNumbersResult);
+var convertHoursToMinutesResult = convertHoursToMinutes(2, 60);
+console.log('convertHoursToMinutesExcercise', convertHoursToMinutesResult);
